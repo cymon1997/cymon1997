@@ -18,23 +18,21 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ```javascript
-const cymon = {
+const me = {
     pronouns: "He/Him",
-    code: ["JavaScript", "TypeScript", "Python", "Java", "Go"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    code: ["Go", "Java", "JavaScript", "Dart"],
+    askMeAbout: ["backend dev", "app dev", "tech", "investment", "trading"],
     technologies: {
-        frontEnd: {
-            js: ["React", "Next.js", "Vue", "Angular"],
-            css: ["Sass", "Tailwind", "Bootstrap", "Material-UI"]
-        },
         backEnd: {
-            js: ["Node.js", "Express", "Nest.js"],
-            python: ["Django", "FastAPI", "Flask"],
-            java: ["Spring Boot", "Spring Framework"],
-            go: ["Gin", "Echo"]
+            go: ["Gin", "Gorm", "Echo"]
+            java: ["Spring Boot", "Maven"],
+            js: ["Node.js", "Express"],
+        },
+        mobile: {
+            android: ["Native", "Flutter"],
         },
         databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
-        cloud: ["AWS", "Google Cloud", "Azure", "Heroku"],
+        cloud: ["Google Cloud", "Heroku"],
         tools: ["Docker", "Kubernetes", "Jenkins", "Git", "Postman"]
     },
     currentFocus: "Building scalable applications with modern tech stacks",
@@ -54,11 +52,9 @@ const cymon = {
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ### ⚙️ Backend Development
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Gorm](https://img.shields.io/badge/gorm-blue?style=for-the-badge&logo=go&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### 🎨 Mobile App Development
 ![Flutter](https://img.shields.io/badge/flutter-blue?style=for-the-badge&logo=flutter&logoColor=%2361DAFB)
@@ -69,7 +65,7 @@ const cymon = {
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google-Cloudg-yellow?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCS-yellow.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ### 🛠️ Tools & Others
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -161,8 +157,6 @@ const cymon = {
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
-
----
 
 <div align="center">
 
